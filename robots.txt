@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frantufro.github.io/docs-f0z945/sitemap.xml
